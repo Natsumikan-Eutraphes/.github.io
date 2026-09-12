@@ -1,6 +1,10 @@
-head {
-    background-color: green;
-    h1 + p {
+body {
+    background-color: #a5c5e1;
+    p {
         text-align: center;
     }
+}
+
+.title {
+    font-size: 30px;
 }

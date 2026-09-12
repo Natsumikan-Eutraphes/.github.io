@@ -1,1 +1,15 @@
 Hello world!
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>私のブログ</title>
+</head>
+<body>
+
+<h1>私のブログ</h1>
+
+<p>ここから始めます。</p>
+
+</body>
+</html>
